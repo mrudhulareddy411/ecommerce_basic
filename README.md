@@ -52,14 +52,6 @@ ecommerce/
 
 ---
 
-## ⚙️ Setup Instructions
-
-### 1️⃣ Clone the Repository
-
-```
-git clone https://github.com/your-username/ecommerce.git
-```
-
 ### 2️⃣ Move Project to XAMPP
 
 Place the folder inside:
